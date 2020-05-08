@@ -1,4 +1,4 @@
-The “run_analysis.R” script was written as a result of the “Cleaning and Getting Data” Course (final project). It performs the data obtaining and preparation, followed by 5 required steps to accomplish the project.
+# The “run_analysis.R” script was written as a result of the “Cleaning and Getting Data” Course (final project). It performs the data obtaining and preparation, followed by 5 required steps to accomplish the project.
 
 1. Load required packages: 
 Loaded the “dplyr” package
